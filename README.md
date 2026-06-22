@@ -23,14 +23,14 @@ A menu-driven calculator developed using Python that performs various arithmetic
 ```text
 python-calculator/
 │
-├── calculator.py
+├── Simple_Calculator.py
 └── README.md
 ```
 
 ## How to Run
 
 ```bash
-python calculator.py
+python Simple_Calculator.py
 ```
 
 ## Author
